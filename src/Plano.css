@@ -1,0 +1,16 @@
+.plano-container{
+    border: 1px solid black;
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.plano-titulo{
+    font-weight: 700;
+}
+
+.plano-info{
+    font-size: 14px;
+    margin: 0;
+}
